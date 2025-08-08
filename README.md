@@ -13,6 +13,6 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone 
+git clone https://github.com/zcode-glitch/sample-first-landing-page.git
 cd sample1
 Live Server or index.html in chrome
