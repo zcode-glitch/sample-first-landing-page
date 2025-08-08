@@ -1,2 +1,18 @@
-# sample-first-landing-page
-Sample First Landing Page Website
+# 🚀 Sample First Landing Page Website Simple
+
+> Landing Page Website By ZCode
+
+## 📌 Features
+- ✅ Layout And Look Clean
+
+## 🛠️ Tech Stack
+- Language: HTML & CSS
+- Framework: -
+- Database: -
+- Others: Git, Github, Unspalsh
+
+## 🚀 Getting Started
+```bash
+git clone 
+cd sample1
+Live Server or index.html in chrome
